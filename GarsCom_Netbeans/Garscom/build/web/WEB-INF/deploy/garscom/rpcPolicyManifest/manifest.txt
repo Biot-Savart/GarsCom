@@ -1,0 +1,3 @@
+# Module garscom
+# RPC service class, partial path of RPC policy file
+com.garscom.data.client.DataService, AFF70A4D542FFD5C609850B1F614A0E6.gwt.rpc

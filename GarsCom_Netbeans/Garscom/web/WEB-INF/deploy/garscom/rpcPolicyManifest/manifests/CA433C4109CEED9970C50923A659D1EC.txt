@@ -1,0 +1,2 @@
+serviceClass: com.garscom.data.client.DataService
+path: AFF70A4D542FFD5C609850B1F614A0E6.gwt.rpc
